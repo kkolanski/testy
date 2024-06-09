@@ -1,0 +1,2 @@
+print("Hejże!")
+assert True
