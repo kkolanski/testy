@@ -1,2 +1,2 @@
 print("Hejże!")
-assert True
+assert 2 == 4
